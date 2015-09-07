@@ -1,0 +1,22 @@
+/* MY CSS */
+
+html {
+
+}
+
+head {
+
+}
+
+body {
+
+}
+
+nav {
+	margin: screen-width/2;
+}
+nav ul li {
+	float: left;
+	list-style: none;
+	padding: 5px;
+}
